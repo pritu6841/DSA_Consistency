@@ -1,26 +1,34 @@
+// Structure of node
+/*class Node {
+   public:
+    int data;
+    Node *left;
+    Node *right;
+
+    Node(int val) {
+        data = val;
+        left = right = NULL;
+    }
+};*/
+
 class Solution {
-  private:
-    int countNodes(Node* root) {
-        if (!root) return 0;
+  public:
+    int countNodes(Node* root){
+        if(!root) return 0;
         return 1 + countNodes(root->left) + countNodes(root->right);
     }
-
-    bool isHeapRec(Node* root, int index, int node_count) {
-        if (!root) return true;
-        if (index >= node_count) return false; // completeness violated
-
-        // heap-order check (max-heap)
-        if (root->left && root->left->data > root->data) return false;
-        if (root->right && root->right->data > root->data) return false;
-
-        return isHeapRec(root->left, 2 * index + 1, node_count) &&
-               isHeapRec(root->right, 2 * index + 2, node_count);
+    bool checkHeap(Node* root,int idx ,int totalNodes){
+        if(!root) return true;
+        if(idx >= totalNodes) return false;
+        
+        if(root->left && root->left->data > root->data) return false;
+        if(root->right && root->right->data > root->data) return false;
+        
+        return checkHeap(root->left, idx*2+1, totalNodes) && checkHeap(root->right, idx*2+2, totalNodes);
     }
-
-  public:
     bool isHeap(Node* root) {
-        if (!root) return true;
-        int node_count = countNodes(root);
-        return isHeapRec(root, 0, node_count);
+        // code here
+        int totalNodes = countNodes(root);
+        return checkHeap(root,0 ,totalNodes);
     }
 };
