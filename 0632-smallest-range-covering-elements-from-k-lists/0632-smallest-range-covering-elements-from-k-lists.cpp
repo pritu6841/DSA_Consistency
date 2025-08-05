@@ -20,8 +20,8 @@ public:
             }
         int mini = INT_MAX;
         int j = 0;
-        int m ;
-        while(true){
+        int m = nums[idx].size() ;
+        while(j<m){
             pair<int, pair<int, int>> p = pq.top();
             int small = p.first;
             int i = p.second.first;
