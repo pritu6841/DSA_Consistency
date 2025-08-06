@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0009-palindrome-number) |
 ## Greedy
 |  |
@@ -73,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
