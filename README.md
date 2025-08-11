@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pritu6841/DSA_Consistency/tree/master/0005-longest-palindromic-substring) |
+| [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
+| [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 ## Union Find
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 ## Counting
 |  |
