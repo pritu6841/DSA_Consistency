@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pritu6841/DSA_Consistency/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
+| [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
@@ -94,11 +95,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
 ## Graph
@@ -115,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
