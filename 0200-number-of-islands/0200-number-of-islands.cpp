@@ -1,32 +1,36 @@
 class Solution {
 public:
-    void bfs(vector<vector<char>>& grid, vector<vector<int>> &vis, int row, int col){
-        vis[row][col] = 1;
-        queue<pair<int, int>>q;
-        q.push(make_pair(row, col));
-        while(!q.empty()){
-            pair<int, int> pr = q.front();
-            q.pop();
-            int i = pr.first;
-            int j = pr.second;
-            if((i-1 >=0 ) && (grid[i-1][j] == '1' && vis[i-1][j] == 0)){
-                vis[i-1][j] = 1;
-                q.push({i-1, j});
-                }
-            if((j-1 >= 0 && grid[i][j-1] == '1') && vis[i][j-1] == 0){
-                vis[i][j-1] = 1;
-                q.push({i, j-1});
-                }
-            if((j+1 < grid[0].size() && grid[i][j+1] == '1' && vis[i][j+1] == 0)) {
-                vis[i][j+1] = 1;
-                q.push({i, j+1});
-                }
-            if((i+1 < grid.size()) && (grid[i+1][j] == '1' && vis[i+1][j] == 0)){
-                vis[i+1][j] = 1;
-                q.push({i+1, j});
-                }
+    
+    void bfs(vector<vector<char>>& grid, vector<vector<int>> &vis, int row, int col) {
+    vis[row][col] = 1;
+    queue<pair<int, int>> q;
+    q.push({row, col});
+
+    int rowArr[] = {-1, 0, 1, 0};
+    int colArr[] = {0, 1, 0, -1};
+
+    while (!q.empty()) {
+        auto pr = q.front();
+        q.pop();
+        int r = pr.first;
+        int c = pr.second;
+
+        for (int k = 0; k < 4; k++) {
+            int new_r = r + rowArr[k];
+            int new_c = c + colArr[k];
+
+            if (new_r >= 0 && new_r < grid.size() &&
+                new_c >= 0 && new_c < grid[0].size() &&
+                grid[new_r][new_c] == '1' &&
+                vis[new_r][new_c] == 0) 
+            {
+                vis[new_r][new_c] = 1;
+                q.push({new_r, new_c});
+            }
         }
     }
+}
+
     int numIslands(vector<vector<char>>& grid) {
         int n = grid.size();int m = grid[0].size();
         int cnt = 0;
