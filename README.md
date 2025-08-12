@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/pritu6841/DSA_Consistency/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
+| [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 ## Counting
 |  |
 | ------- |
