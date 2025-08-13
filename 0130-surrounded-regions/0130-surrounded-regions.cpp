@@ -1,16 +1,21 @@
 class Solution {
 public:
-    void dfs(int r, int c, vector<vector<int>>&vis, vector<vector<char>>&arr){
+    void dfs(int r, int c, vector<vector<int>>& vis, vector<vector<char>>& arr) {
+        int n = arr.size(), m = arr[0].size();
         vis[r][c] = 1;
-        int n = arr.size();
-        int m = arr[0].size();
 
-        if(r-1 >= 0 && vis[r-1][c] == 0 && arr[r-1][c] == 'O') dfs(r-1, c, vis, arr);
-        if(r+1 < n && vis[r+1][c] == 0 && arr[r+1][c] == 'O') dfs(r+1, c, vis, arr);
-        if(c-1 >= 0 && vis[r][c-1] == 0 && arr[r][c-1] == 'O') dfs(r, c-1, vis, arr);
-        if(c+1 < m && vis[r][c+1] == 0 && arr[r][c+1] == 'O') dfs(r, c+1, vis, arr);
+        // 4-direction movement
+        int dr[] = {-1, 1, 0, 0};
+        int dc[] = {0, 0, -1, 1};
+
+        for (int k = 0; k < 4; k++) {
+            int nr = r + dr[k];
+            int nc = c + dc[k];
+            if (nr >= 0 && nr < n && nc >= 0 && nc < m && !vis[nr][nc] && arr[nr][nc] == 'O') {
+                dfs(nr, nc, vis, arr);
+            }
+        }
     }
-
     void solve(vector<vector<char>>& arr) {
         int n = arr.size();
         int m = arr[0].size();
