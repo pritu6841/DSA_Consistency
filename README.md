@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 ## Greedy
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/pritu6841/DSA_Consistency/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
