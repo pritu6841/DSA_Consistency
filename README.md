@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0009-palindrome-number) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pritu6841/DSA_Consistency/tree/master/1448-maximum-69-number) |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
