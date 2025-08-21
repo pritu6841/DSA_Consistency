@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 ## Array
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/pritu6841/DSA_Consistency/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 ## Trie
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 ## Counting
 |  |
 | ------- |
@@ -171,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
