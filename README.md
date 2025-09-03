@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pritu6841/DSA_Consistency/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/pritu6841/DSA_Consistency/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/pritu6841/DSA_Consistency/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/pritu6841/DSA_Consistency/tree/master/1448-maximum-69-number) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Topological Sort
 |  |
@@ -206,5 +210,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 <!---LeetCode Topics End-->
