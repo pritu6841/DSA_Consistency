@@ -1,0 +1,14 @@
+class Solution:
+    def mergeSort(self, head):
+        initAns=[]
+        new=head
+        while new:
+            initAns.append(new.data)
+            new=new.next
+        initAns.sort()    
+        current=head
+        for i in initAns:
+            current.data=i
+            current=current.next
+        return head
+      
