@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/pritu6841/DSA_Consistency/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pritu6841/DSA_Consistency/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Math
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1448-maximum-69-number](https://github.com/pritu6841/DSA_Consistency/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
 ## Sliding Window
 |  |
 | ------- |
