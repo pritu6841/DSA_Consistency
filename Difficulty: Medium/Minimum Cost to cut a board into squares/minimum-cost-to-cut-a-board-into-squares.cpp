@@ -1,34 +1,27 @@
 class Solution {
   public:
     int minCost(int n, int m, vector<int>& x, vector<int>& y) {
-        sort(x.rbegin(), x.rend());
-        sort(y.rbegin(), y.rend());
-        
-        int i = 0, j = 0;
-        int hSeg = 1, vSeg = 1;
-        int totalCost = 0;
-        
-        while(i < x.size() && j < y.size()) {
-            if(x[i] >= y[j]) {
-                totalCost += x[i] * hSeg;
-                vSeg++;
-                i++;
-            } else {
-                totalCost += y[j] * vSeg;
-                hSeg++;
-                j++;
+        int hor = 1;
+        int ver = 1;
+        int cost =0;
+        n--;m--;
+        vector<pair<int,int>> xy;
+        for(int i =0;i< n;i++){
+            xy.push_back({y[i],0});
+        }for(int i =0;i< m;i++){
+            xy.push_back({x[i],1});
+        }
+        sort(xy.rbegin(),xy.rend());
+        for(int i =0;i< xy.size();i++){
+            if(xy[i].second == 1){
+                cost+=ver*xy[i].first;
+                hor++;
+            }else{
+                cost+=hor*xy[i].first;
+                ver++;
             }
         }
-        while(i < x.size()) {
-            totalCost += x[i] * hSeg;
-            vSeg++;
-            i++;
-        }
-        while(j < y.size()) {
-            totalCost += y[j] * vSeg;
-            hSeg++;
-            j++;
-        }
-        return totalCost;
+        return cost;
+        
     }
 };
