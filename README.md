@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/pritu6841/DSA_Consistency/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/pritu6841/DSA_Consistency/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/pritu6841/DSA_Consistency/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2887-sort-vowels-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pritu6841/DSA_Consistency/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/pritu6841/DSA_Consistency/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pritu6841/DSA_Consistency/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
