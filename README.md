@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1479-construct-target-array-with-multiple-sums](https://github.com/pritu6841/DSA_Consistency/tree/master/1479-construct-target-array-with-multiple-sums) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pritu6841/DSA_Consistency/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pritu6841/DSA_Consistency/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/pritu6841/DSA_Consistency/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/pritu6841/DSA_Consistency/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -242,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
