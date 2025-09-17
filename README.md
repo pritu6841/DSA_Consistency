@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/pritu6841/DSA_Consistency/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pritu6841/DSA_Consistency/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pritu6841/DSA_Consistency/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/pritu6841/DSA_Consistency/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
 | [1479-construct-target-array-with-multiple-sums](https://github.com/pritu6841/DSA_Consistency/tree/master/1479-construct-target-array-with-multiple-sums) |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/pritu6841/DSA_Consistency/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/pritu6841/DSA_Consistency/tree/master/3226-minimum-number-game) |
 ## Simulation
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/pritu6841/DSA_Consistency/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/pritu6841/DSA_Consistency/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
@@ -249,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
