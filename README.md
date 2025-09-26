@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pritu6841/DSA_Consistency/tree/master/0005-longest-palindromic-substring) |
+| [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
+| [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0900-reordered-power-of-2](https://github.com/pritu6841/DSA_Consistency/tree/master/0900-reordered-power-of-2) |
 | [2887-sort-vowels-in-a-string](https://github.com/pritu6841/DSA_Consistency/tree/master/2887-sort-vowels-in-a-string) |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1448-maximum-69-number](https://github.com/pritu6841/DSA_Consistency/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/pritu6841/DSA_Consistency/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -261,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/pritu6841/DSA_Consistency/tree/master/2429-design-a-food-rating-system) |
+## Binary Search
+|  |
+| ------- |
+| [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 <!---LeetCode Topics End-->
