@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pritu6841/DSA_Consistency/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
+| [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
@@ -225,11 +226,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/pritu6841/DSA_Consistency/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
 | [1628-count-submatrices-with-all-ones](https://github.com/pritu6841/DSA_Consistency/tree/master/1628-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
