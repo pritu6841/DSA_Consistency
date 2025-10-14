@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pritu6841/DSA_Consistency/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pritu6841/DSA_Consistency/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pritu6841/DSA_Consistency/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
+| [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/pritu6841/DSA_Consistency/tree/master/0118-pascals-triangle) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
