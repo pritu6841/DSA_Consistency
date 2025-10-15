@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/pritu6841/DSA_Consistency/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/pritu6841/DSA_Consistency/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/pritu6841/DSA_Consistency/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
