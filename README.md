@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/pritu6841/DSA_Consistency/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/pritu6841/DSA_Consistency/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pritu6841/DSA_Consistency/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/pritu6841/DSA_Consistency/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/pritu6841/DSA_Consistency/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
