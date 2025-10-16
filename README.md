@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/pritu6841/DSA_Consistency/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pritu6841/DSA_Consistency/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/pritu6841/DSA_Consistency/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/pritu6841/DSA_Consistency/tree/master/0084-largest-rectangle-in-histogram) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/pritu6841/DSA_Consistency/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
