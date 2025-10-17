@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/pritu6841/DSA_Consistency/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/pritu6841/DSA_Consistency/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 ## String
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/pritu6841/DSA_Consistency/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0542-01-matrix](https://github.com/pritu6841/DSA_Consistency/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pritu6841/DSA_Consistency/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 ## Monotonic Queue
 |  |
