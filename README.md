@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/pritu6841/DSA_Consistency/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pritu6841/DSA_Consistency/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0867-new-21-game) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/pritu6841/DSA_Consistency/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/pritu6841/DSA_Consistency/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
 ## Depth-First Search
 |  |
