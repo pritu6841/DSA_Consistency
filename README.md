@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pritu6841/DSA_Consistency/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/pritu6841/DSA_Consistency/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pritu6841/DSA_Consistency/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/pritu6841/DSA_Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0169-majority-element](https://github.com/pritu6841/DSA_Consistency/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/pritu6841/DSA_Consistency/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/pritu6841/DSA_Consistency/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/pritu6841/DSA_Consistency/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/pritu6841/DSA_Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/pritu6841/DSA_Consistency/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/pritu6841/DSA_Consistency/tree/master/0229-majority-element-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pritu6841/DSA_Consistency/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/pritu6841/DSA_Consistency/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/pritu6841/DSA_Consistency/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/pritu6841/DSA_Consistency/tree/master/0547-number-of-provinces) |
