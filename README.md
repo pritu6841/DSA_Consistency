@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/pritu6841/DSA_Consistency/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0679-24-game](https://github.com/pritu6841/DSA_Consistency/tree/master/0679-24-game) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/pritu6841/DSA_Consistency/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/pritu6841/DSA_Consistency/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/pritu6841/DSA_Consistency/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/pritu6841/DSA_Consistency/tree/master/1127-last-stone-weight) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/pritu6841/DSA_Consistency/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pritu6841/DSA_Consistency/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/pritu6841/DSA_Consistency/tree/master/1018-binary-prefix-divisible-by-5) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/pritu6841/DSA_Consistency/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Probability and Statistics
 |  |
